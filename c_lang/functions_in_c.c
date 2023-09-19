@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Returns the maximum of the given 4 numbers.
 int max_of_four(int a, int b, int c, int d) {
     int max = a;
     int numbers[3];
