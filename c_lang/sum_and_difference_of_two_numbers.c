@@ -5,7 +5,7 @@
 
 int main()
 {
-	int integer1, integer2;
+    int integer1, integer2;
     float float1, float2;
     
     scanf("%d %d", &integer1, &integer2);
